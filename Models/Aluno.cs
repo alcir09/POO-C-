@@ -3,6 +3,12 @@ namespace Program.Models
     public class Aluno : Pessoa
     {
         public double Nota { get; set; }
+
+         public override void Apresentar(){
+
+            Console.WriteLine($"Olá, meu nome é {Nome} e sou um aluno de {Nota}");
+        }
+
         // public int Nota2 { get; set; }
 
         // public string CalcularMedia(int nota1, int nota2){
