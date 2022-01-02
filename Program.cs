@@ -7,19 +7,35 @@ namespace Program{
 
         static void Main(string[] args) {
 
-            //Valore validos
-            Retangulo r = new Retangulo();
+            // System.Console.WriteLine("Você é professor (P) ou aluno (A) ?");
+            // string opcao = Console.ReadLine();
 
-            r.DefinirMedidas(30,30);
+            // if(opcao.ToUpper() == "A"){
 
-            System.Console.WriteLine($"Área: {r.ObterArea()}");
 
-            //Valore inválidos
-            Retangulo r2 = new Retangulo();
+            // }
 
-            r2.DefinirMedidas(0,0);
+            Aluno p1 = new Aluno();
 
-            System.Console.WriteLine($"Área: {r2.ObterArea()}");
+            p1.Nome = "Bob";
+            p1.Idade = 20;
+            p1.Nota = 7.5;
+
+            p1.Apresentar();
+
+            // //Valore validos
+            // Retangulo r = new Retangulo();
+
+            // r.DefinirMedidas(30,30);
+
+            // System.Console.WriteLine($"Área: {r.ObterArea()}");
+
+            // //Valore inválidos
+            // Retangulo r2 = new Retangulo();
+
+            // r2.DefinirMedidas(0,0);
+
+            // System.Console.WriteLine($"Área: {r2.ObterArea()}");
 
             // Pessoa p1 = new Pessoa();
 
