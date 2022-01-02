@@ -1,4 +1,5 @@
 ﻿using System;
+using Program.Helper;
 using Program.Interfaces;
 using Program.Models;
 
@@ -8,8 +9,14 @@ namespace Program{
 
         static void Main(string[] args) {
 
-            ICalculadora calc = new Calculadora();
-            System.Console.WriteLine(calc.Somar(10,20));
+            // var caminho = "C:/Users";
+
+            // FIleHelper helper = new FIleHelper();
+
+            // helper.ListarDiretório(caminho);
+
+            // ICalculadora calc = new Calculadora();
+            // System.Console.WriteLine(calc.Somar(10,20));
 
             // Computador comp = new Computador();
             // System.Console.WriteLine(comp.ToString());
