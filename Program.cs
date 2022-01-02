@@ -7,12 +7,26 @@ namespace Program{
 
         static void Main(string[] args) {
 
-            Pessoa p1 = new Pessoa();
+            //Valore validos
+            Retangulo r = new Retangulo();
 
-            p1.Nome = "Bob";
-            p1.Idade = 20;
+            r.DefinirMedidas(30,30);
 
-            p1.Apresentar();
+            System.Console.WriteLine($"Área: {r.ObterArea()}");
+
+            //Valore inválidos
+            Retangulo r2 = new Retangulo();
+
+            r2.DefinirMedidas(0,0);
+
+            System.Console.WriteLine($"Área: {r2.ObterArea()}");
+
+            // Pessoa p1 = new Pessoa();
+
+            // p1.Nome = "Bob";
+            // p1.Idade = 20;
+
+            // p1.Apresentar();
 
         }
     }

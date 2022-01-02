@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alcir.amorim.d.silva\\OneDrive - Accenture\\Documents\\Bootcamp DIO\\Orientaçãop a Obejeto com C_\\Program\\Program.csproj",
+      "projectUniqueName": "C:\\Users\\alcir.amorim.d.silva\\OneDrive - Accenture\\Documents\\Bootcamp DIO\\POO C\\aula 1\\Program\\Program.csproj",
       "projectName": "Program",
-      "projectPath": "C:\\Users\\alcir.amorim.d.silva\\OneDrive - Accenture\\Documents\\Bootcamp DIO\\Orientaçãop a Obejeto com C_\\Program\\Program.csproj",
+      "projectPath": "C:\\Users\\alcir.amorim.d.silva\\OneDrive - Accenture\\Documents\\Bootcamp DIO\\POO C\\aula 1\\Program\\Program.csproj",
       "packagesPath": "C:\\Users\\alcir.amorim.d.silva\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alcir.amorim.d.silva\\OneDrive - Accenture\\Documents\\Bootcamp DIO\\Orientaçãop a Obejeto com C_\\Program\\obj\\",
+      "outputPath": "C:\\Users\\alcir.amorim.d.silva\\OneDrive - Accenture\\Documents\\Bootcamp DIO\\POO C\\aula 1\\Program\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\alcir.amorim.d.silva\\AppData\\Roaming\\NuGet\\NuGet.Config"
