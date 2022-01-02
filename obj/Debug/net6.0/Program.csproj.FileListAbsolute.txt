@@ -1,0 +1,15 @@
+C:\Users\alcir.amorim.d.silva\OneDrive - Accenture\Documents\Bootcamp DIO\Orientaçãop a Obejeto com C_\Program\bin\Debug\net6.0\Program.exe
+C:\Users\alcir.amorim.d.silva\OneDrive - Accenture\Documents\Bootcamp DIO\Orientaçãop a Obejeto com C_\Program\bin\Debug\net6.0\Program.deps.json
+C:\Users\alcir.amorim.d.silva\OneDrive - Accenture\Documents\Bootcamp DIO\Orientaçãop a Obejeto com C_\Program\bin\Debug\net6.0\Program.runtimeconfig.json
+C:\Users\alcir.amorim.d.silva\OneDrive - Accenture\Documents\Bootcamp DIO\Orientaçãop a Obejeto com C_\Program\bin\Debug\net6.0\Program.dll
+C:\Users\alcir.amorim.d.silva\OneDrive - Accenture\Documents\Bootcamp DIO\Orientaçãop a Obejeto com C_\Program\bin\Debug\net6.0\ref\Program.dll
+C:\Users\alcir.amorim.d.silva\OneDrive - Accenture\Documents\Bootcamp DIO\Orientaçãop a Obejeto com C_\Program\bin\Debug\net6.0\Program.pdb
+C:\Users\alcir.amorim.d.silva\OneDrive - Accenture\Documents\Bootcamp DIO\Orientaçãop a Obejeto com C_\Program\obj\Debug\net6.0\Program.csproj.AssemblyReference.cache
+C:\Users\alcir.amorim.d.silva\OneDrive - Accenture\Documents\Bootcamp DIO\Orientaçãop a Obejeto com C_\Program\obj\Debug\net6.0\Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alcir.amorim.d.silva\OneDrive - Accenture\Documents\Bootcamp DIO\Orientaçãop a Obejeto com C_\Program\obj\Debug\net6.0\Program.AssemblyInfoInputs.cache
+C:\Users\alcir.amorim.d.silva\OneDrive - Accenture\Documents\Bootcamp DIO\Orientaçãop a Obejeto com C_\Program\obj\Debug\net6.0\Program.AssemblyInfo.cs
+C:\Users\alcir.amorim.d.silva\OneDrive - Accenture\Documents\Bootcamp DIO\Orientaçãop a Obejeto com C_\Program\obj\Debug\net6.0\Program.csproj.CoreCompileInputs.cache
+C:\Users\alcir.amorim.d.silva\OneDrive - Accenture\Documents\Bootcamp DIO\Orientaçãop a Obejeto com C_\Program\obj\Debug\net6.0\Program.dll
+C:\Users\alcir.amorim.d.silva\OneDrive - Accenture\Documents\Bootcamp DIO\Orientaçãop a Obejeto com C_\Program\obj\Debug\net6.0\ref\Program.dll
+C:\Users\alcir.amorim.d.silva\OneDrive - Accenture\Documents\Bootcamp DIO\Orientaçãop a Obejeto com C_\Program\obj\Debug\net6.0\Program.pdb
+C:\Users\alcir.amorim.d.silva\OneDrive - Accenture\Documents\Bootcamp DIO\Orientaçãop a Obejeto com C_\Program\obj\Debug\net6.0\Program.genruntimeconfig.cache
